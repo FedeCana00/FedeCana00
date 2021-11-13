@@ -8,7 +8,7 @@ I am a computer engineering student who loves developing software to make people
 My favorite quote is "_If you want something you've never had, you have to do something you've never done._ " by Thomas Jefferson.
 
 ## 🧠My experiences
-- My computer experience was at the age of 17 when I attended a university internship where I developed the <b>Space Inavders</b> 👾 videogame with python.
+- My first experience with programming was at the age of 17 when I attended a college internship where I developed the <b> Space Invaders </b> 👾 video game with Python.
 - I worked as an industrial PLC programmer 🏭 using professional IDEs like SoMachineExpert and Zelio Soft
 - I am currently an android developer (link : [@MobDevFC](https://play.google.com/store/apps/dev?id=7631347723206063427))
 - In progress... 💻⚒️
