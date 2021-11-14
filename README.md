@@ -25,6 +25,8 @@ My favorite quote is "_If you want something you've never had, you have to do so
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png" alt="C sharp" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="Visual studio" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://i0.wp.com/flstudiocrack.info/wp-content/uploads/2019/07/Visual-Studio-Code-Crack.png?fit=1200%2C1200&ssl=1" alt="Visual studio Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1e0d62f445e6448af1e125f5702c8227/reactjs-development-services.png" alt="ReactJS" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## ☎️Connect with me:
