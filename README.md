@@ -32,7 +32,7 @@ My favorite quote is "_If you want something you've never had, you have to do so
 ## ☎️Connect with me:
 <p align="center">
   <a href="https://www.instagram.com/canafede/?hl=it"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://it.linkedin.com/in/federico-canali"><img src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_Logo_2013.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.linkedin.com/in/federico-canali-26b004211"><img src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_Logo_2013.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ## 🎯My Github status:
