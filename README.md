@@ -2,7 +2,6 @@
 [![Github](https://img.shields.io/github/followers/FedeCana00?label=Follow&style=social)](https://github.com/FedeCana00) <!-- used to github follower count -->
 
 # 👋Hi, I'm Fede
-🌐<a href="https://fedecana00.github.io/my-personal-website/">My Personal Website</a>
 
 ## 👨‍💻About me
 I am a computer engineering student who loves developing software to make people's lives easier.<br>
