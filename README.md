@@ -4,7 +4,7 @@
 # 👋Hi, I'm Fede
 
 ## 👨‍💻About me
-I am a computer engineering student who loves developing software to make people's lives easier.<br>
+I am a computer engineering who loves developing software to make people's lives easier.<br>
 My favorite quote is "_If you want something you've never had, you have to do something you've never done._ " by Thomas Jefferson.
 
 ## 🧠My experiences
